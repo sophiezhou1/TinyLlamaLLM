@@ -3,6 +3,7 @@
 
 Framework for writing customer scopes of work  
 Evonik SPE Regional Project 2025
+[Colab Notebook](https://colab.research.google.com/drive/1hp6l3ig7QBr9ygjRFpouf-GJdp_8Cii5?usp=sharing)
 ## Tools and Framework
 
 #### Model and Fine Tuning
